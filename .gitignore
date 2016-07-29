@@ -31,3 +31,13 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+src/app/app.component.js
+src/app/app.component.js.map
+src/app/app.component.spec.js
+src/app/app.component.spec.js.map
+src/main.js
+src/main.js.map
+src/polyfills.js
+src/polyfills.js.map
+src/vendor.js
+src/vendor.js.map
